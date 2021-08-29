@@ -1,0 +1,67 @@
+﻿  application.cpp
+D:\cpp\cpp\Project1\Project1\src\application.cpp(18,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\cpp\cpp\Project1\Project1\src\application.cpp(18,50): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\cpp\cpp\Project1\Project1\src\application.cpp(18,61): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\cpp\cpp\Project1\Project1\src\application.cpp(93,49): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\cpp\cpp\Project1\Project1\src\application.cpp(93,28): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\cpp\cpp\Project1\Project1\src\application.cpp(94,67): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\cpp\cpp\Project1\Project1\src\application.cpp(94,46): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\cpp\cpp\Project1\Project1\src\application.cpp(116,23): warning C4018: '<=': signed/unsigned mismatch
+D:\cpp\cpp\Project1\Project1\src\application.cpp(119,63): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\cpp\cpp\Project1\Project1\src\application.cpp(119,37): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\cpp\cpp\Project1\Project1\src\application.cpp(122,35): warning C4018: '>': signed/unsigned mismatch
+D:\cpp\cpp\Project1\Project1\src\application.cpp(125,63): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\cpp\cpp\Project1\Project1\src\application.cpp(125,37): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\cpp\cpp\Project1\Project1\src\application.cpp(134,21): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\cpp\cpp\Project1\Project1\src\application.cpp(142,31): warning C4018: '<=': signed/unsigned mismatch
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_widgets.cpp
+  second.cpp
+D:\cpp\cpp\Project1\Project1\src\second.cpp(11,35): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+D:\cpp\cpp\Project1\Project1\src\second.cpp(28,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\cpp\cpp\Project1\Project1\src\second.cpp(31,41): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+D:\cpp\cpp\Project1\Project1\src\second.cpp(49,42): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+D:\cpp\cpp\Project1\Project1\src\second.cpp(70,42): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+D:\cpp\cpp\Project1\Project1\src\second.cpp(99,37): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+D:\cpp\cpp\Project1\Project1\src\second.cpp(121,37): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'D:\cpp\cpp\Project1\Debug\vc120.pdb'; linking object as if no debug info
+  Project1.vcxproj -> D:\cpp\cpp\Project1\Debug\Project1.exe

@@ -1,0 +1,46 @@
+﻿  CircleDrawing.cpp
+D:\cpp\cpp\FillColor\FillColor\CircleDrawing.cpp(14,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\cpp\cpp\FillColor\FillColor\CircleDrawing.cpp(61,20): warning C4018: '<': signed/unsigned mismatch
+D:\cpp\cpp\FillColor\FillColor\CircleDrawing.cpp(67,20): warning C4018: '<': signed/unsigned mismatch
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_widgets.cpp
+  Source.cpp
+D:\cpp\cpp\FillColor\FillColor\Source.cpp(94,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\cpp\cpp\FillColor\FillColor\Source.cpp(94,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\cpp\cpp\FillColor\FillColor\Source.cpp(105,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\cpp\cpp\FillColor\FillColor\Source.cpp(105,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\cpp\cpp\FillColor\FillColor\Source.cpp(115,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\cpp\cpp\FillColor\FillColor\Source.cpp(116,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\cpp\cpp\FillColor\FillColor\Source.cpp(129,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\cpp\cpp\FillColor\FillColor\Source.cpp(129,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\cpp\cpp\FillColor\FillColor\Source.cpp(135,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\cpp\cpp\FillColor\FillColor\Source.cpp(135,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\cpp\cpp\FillColor\FillColor\Source.cpp(135,118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\cpp\cpp\FillColor\FillColor\Source.cpp(143,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\cpp\cpp\FillColor\FillColor\Source.cpp(145,25): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+D:\cpp\cpp\FillColor\FillColor\Source.cpp(146,29): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+D:\cpp\cpp\FillColor\FillColor\Source.cpp(147,29): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+D:\cpp\cpp\FillColor\FillColor\Source.cpp(151,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\cpp\cpp\FillColor\FillColor\Source.cpp(151,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\cpp\cpp\FillColor\FillColor\Source.cpp(168,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\cpp\cpp\FillColor\FillColor\Source.cpp(173,76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\cpp\cpp\FillColor\FillColor\Source.cpp(175,76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\cpp\cpp\FillColor\FillColor\Source.cpp(177,76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\cpp\cpp\FillColor\FillColor\Source.cpp(179,76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\cpp\cpp\FillColor\FillColor\Source.cpp(183,29): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+D:\cpp\cpp\FillColor\FillColor\Source.cpp(184,33): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+D:\cpp\cpp\FillColor\FillColor\Source.cpp(185,33): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+D:\cpp\cpp\FillColor\FillColor\Source.cpp(189,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\cpp\cpp\FillColor\FillColor\Source.cpp(189,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\cpp\cpp\FillColor\FillColor\Source.cpp(204,27): warning C4018: '<': signed/unsigned mismatch
+D:\cpp\cpp\FillColor\FillColor\Source.cpp(206,100): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\cpp\cpp\FillColor\FillColor\Source.cpp(206,63): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'D:\cpp\cpp\FillColor\Debug\vc120.pdb'; linking object as if no debug info
+  FillColor.vcxproj -> D:\cpp\cpp\FillColor\Debug\FillColor.exe

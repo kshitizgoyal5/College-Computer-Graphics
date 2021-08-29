@@ -1,0 +1,69 @@
+﻿  Source.cpp
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(55,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(55,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(56,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(56,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(58,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(58,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(59,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(59,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(61,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(61,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(62,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(62,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(64,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(64,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(65,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(65,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(95,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(95,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(105,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(105,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(128,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(130,25): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(131,29): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(132,29): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(151,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(162,29): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(163,33): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(164,33): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(165,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(173,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(175,25): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(176,29): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(177,29): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(196,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(207,29): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(208,33): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(209,33): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(210,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(268,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(269,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(270,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(271,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(297,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(298,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(299,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(300,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\utility(248,16): warning C4244: 'initializing': conversion from '_Ty' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty1=int
+          ]
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(134): message : see reference to function template instantiation 'std::pair<_Kty,_Ty>::pair<double,ImVec4,0>(std::pair<double,ImVec4> &&) noexcept' being compiled
+          with
+          [
+              _Kty=int,
+              _Ty=ImVec4
+          ]
+D:\cpp\cpp\BoundFill\BoundFill\Source.cpp(134): message : see reference to function template instantiation 'std::pair<_Kty,_Ty>::pair<double,ImVec4,0>(std::pair<double,ImVec4> &&) noexcept' being compiled
+          with
+          [
+              _Kty=int,
+              _Ty=ImVec4
+          ]
+  BoundFill.vcxproj -> D:\cpp\cpp\BoundFill\Debug\BoundFill.exe
